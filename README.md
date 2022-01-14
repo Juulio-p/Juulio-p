@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juulio-p
-- 👀 I’m interested in back-end development.
-- 🌱 I’m currently learning the basics of programing such as HTML,CSS, JavaScript,java, and even C
-- 💞️ I’m looking to collaborate on anything really, im new to programming and learned the basics but havent made the jump to any big prodjects.
+- 👀 I’m interested in back-end development,linux,and android development.
+- 🌱 I’m currently learning the basics of programing such as HTML,CSS, JavaScript,java,Kotlin, and android development.
+- 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me email @ Pjulio1234@gmmail.com
 
 <!---
