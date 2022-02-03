@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Juulio-p
-- 👀 I’m interested in back-end development,linux,and android development.
-- 🌱 I’m currently learning the basics of programing such as HTML,CSS, JavaScript,java,Kotlin, and android development.
-- 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me email @ Pjulio1234@gmmail.com
+- 👀 I’m interested in web development, but enjoy/Most intrested in linux and backend programming.
+- 🌱 I’m currently learning web development, Im hoping to host my own website very soon.
+- 💞️ I’m looking to collaborate on any prodjects.
+- 📫 How to reach me email @ Pjulio1234@gmail.com
 
 <!---
 Juulio-p/Juulio-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
